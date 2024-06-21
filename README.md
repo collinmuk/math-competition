@@ -1,4 +1,4 @@
-Certainly! Here's an updated version of the GitHub README file template with your GitHub username (`collinmuk`):
+
 
 ```markdown
 # Math Competition System
